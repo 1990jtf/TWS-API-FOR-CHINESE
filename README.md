@@ -11,9 +11,9 @@ c++|v9.72|2019-10-16
 ## 请按照以下顺序阅读
 [1、介绍 Introduction](https://github.com/1990jtf/TWS-API-FOR-CHINESE/blob/master/Introduction.md)  
 [2、初始化 Initial Setup](https://github.com/1990jtf/TWS-API-FOR-CHINESE/blob/master/Initial%20Setup.md)  
-[3、使用第三方API平台 Using Third Party API Platforms](#)  
+[3、使用第三方API平台 Using Third Party API Platforms](https://github.com/1990jtf/TWS-API-FOR-CHINESE/blob/master/Using%20Third%20Party%20API%20Platforms.md)  
 [4、Excel APIs](#)  
-[5、故障排除与支持 Troubleshooting & Support](#)
+[5、故障排除与支持 Troubleshooting & Support](https://github.com/1990jtf/TWS-API-FOR-CHINESE/blob/master/Troubleshooting%20%26%20Support.md)
 
 
 作者：1990jtf@gmail.com
